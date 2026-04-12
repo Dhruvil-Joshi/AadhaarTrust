@@ -1,0 +1,37 @@
+# Ephemeral / Temp Directories
+temp_input/
+temp_output/
+temp_processing/
+temp_data/
+temp_manual_review/
+data/
+logs/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Node
+node_modules/
+dist/
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# Project specific
+output_new/
+debug_qr/
+extracted_qr_raw/
+
+WhatsAppImage.png
+WhatsAppImage - Copy.png
+WhatsAppImage_changed_photo.png
+WhatsAppImage_spliced.png
+
+frontend/
+

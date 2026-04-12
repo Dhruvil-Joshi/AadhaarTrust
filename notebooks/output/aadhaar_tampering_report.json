@@ -1,0 +1,36 @@
+{
+  "timestamp": "2026-01-07T14:26:16.792022",
+  "verdict": "DOCUMENT_TAMPERED",
+  "severity": "HIGH",
+  "critical_fields_missing": false,
+  "tampered_fields": {},
+  "unmapped_splice_regions": [
+    {
+      "bbox": [
+        3,
+        66,
+        375,
+        140
+      ],
+      "issue": "REMOVED_FIELD_DETECTED"
+    },
+    {
+      "bbox": [
+        0,
+        69,
+        374,
+        141
+      ],
+      "issue": "REMOVED_FIELD_DETECTED"
+    },
+    {
+      "bbox": [
+        371,
+        71,
+        466,
+        137
+      ],
+      "issue": "REMOVED_FIELD_DETECTED"
+    }
+  ]
+}
